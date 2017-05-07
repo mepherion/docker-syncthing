@@ -12,7 +12,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [IRC][ircurl] on freenode at `#linuxserver.io`
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
-# linuxserver/syncthing
+# mepherion/docker-syncthing
 [![](https://images.microbadger.com/badges/version/mepherion/docker-syncthing.svg)](https://microbadger.com/images/mepherion/docker-syncthing "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/mepherion/docker-syncthing.svg)](http://microbadger.com/images/mepherion/docker-syncthing "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/mepherion/docker-syncthing.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/mepherion/docker-syncthing.svg)][hub]
 
 Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.

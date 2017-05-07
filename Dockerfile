@@ -37,7 +37,7 @@ RUN \
  ln -s "$SYNC_SRC" "$SYNC_BUILD/syncthing" && \
  cd "$SYNC_BUILD"/syncthing && \
  export GOPATH="${SYNC_SRC}" && \
- go run build.go -no-upgrade -version=${SYNC_TAG} && \
+ go run build.go -version=${SYNC_TAG} && \
 
 # install syncthing
  install -d -o abc -g abc \

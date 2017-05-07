@@ -3,7 +3,7 @@
 [ircurl]: https://www.linuxserver.io/irc/
 [podcasturl]: https://www.linuxserver.io/podcast/
 [appurl]: https://syncthing.net
-[hub]: https://hub.docker.com/r/linuxserver/syncthing/
+[hub]: https://hub.docker.com/r/mepherion/docker-syncthing/
 
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
